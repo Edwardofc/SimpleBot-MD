@@ -27,7 +27,7 @@ global.wait = 'αgυαя∂є υη мσмєηтσ, ѕσу ℓєηтσ...'
 global.botname = 'Sιɱρʅҽ-Bσƚ'
 global.textbot = `Sιɱρʅҽ-Bσƚ`
 global.listo = '*αqυι тιєηєѕ*'
-global.namechannel = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗜𝗮𝗻 ✯』'
+global.namechannel = 'Gamsr'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -36,8 +36,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
-global.canal = 'https://whatsapp.com/channel/0029ValIBdM2f3EI1tGGQ93S'
+global.group = 'https://chat.whatsapp.com/JbQKdleiAVW3F7V7ZkdbHl'
+global.canal = 'https://whatsapp.com/channel/0029VanLqIp17En3Dt6cmr2m'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
