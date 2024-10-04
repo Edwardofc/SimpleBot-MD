@@ -20,7 +20,7 @@ Sιɱρʅҽ-Bσƚ`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>', 'todos <mensaje>'];
-handler.tags = ['group'];
+handler.tags = ['grupo'];
 handler.command = /^(tagall|invocar|marcar|todos|invocación|ta)$/i;
 handler.admin = true;
 handler.group = true;
