@@ -3,7 +3,7 @@ let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Edward;;\nFN:Ian⁩\nORG:Edward⁩\nTI
 await conn.sendMessage(m.chat, { contacts: { displayName: 'Edward⁩', contacts: [{ vcard }] }}, {quoted: m})
 }
 handler.help = ['owner']
-handler.tags = ['main']
+handler.tags = ['creador']
 handler.command = ['owner', 'creator', 'creador', 'dueño'] 
 
 export default handler
