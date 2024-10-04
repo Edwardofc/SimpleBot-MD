@@ -22,7 +22,7 @@ const rl = createInterface(process.stdin, process.stdout)
 const app = express()
 const port = process.env.PORT || 8080;
 
-say('Kuroda\nLady K', {
+say('Simple\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
@@ -82,4 +82,4 @@ async function start(files) {
   }
 }
 
-start(['starlights.js'])
+start(['start.js'])
